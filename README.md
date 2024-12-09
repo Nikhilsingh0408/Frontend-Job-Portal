@@ -31,7 +31,7 @@ The Job Portal Web Application is a full-stack platform designed for job seekers
   
 - **Job Page**: Recruiters can post new job listings, including job title, description, location, and required skills.
 
-  <img src="Image/Recuriter_page.png" width="35%" height="200" style="display;">
+  <img src="Image/Recuriter_job.png" width="35%" height="200" style="display;">
   
 - **Student Status Page**: Recruiters can view students who have applied for their jobs and manage application statuses.
 
