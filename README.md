@@ -7,6 +7,7 @@ The Job Portal Web Application is a full-stack platform designed for job seekers
 
 ### Student Features:
 - **Home Page**: Displays a list of available job opportunities, featured jobs, and quick links to other sections.
+<img src="Image/home_page" width="35%" height="200" style="display;">
 - **Job Page**: Allows students to browse job listings, filter by job type, location, and required skills.
 - **Browse Page**: A page to explore companies and job categories.
 - **User Profile Page**: Students can create and manage their profile, upload resumes, add skills, and update personal information.
@@ -24,7 +25,6 @@ The Job Portal Web Application is a full-stack platform designed for job seekers
 - **Database**: MongoDB
 - **Authentication**: JSON Web Token (JWT)
 - **File Upload**: Cloudinary for resume uploads
-- **Real-time Communication**: Socket.io (optional)
 
 ## Installation
 
