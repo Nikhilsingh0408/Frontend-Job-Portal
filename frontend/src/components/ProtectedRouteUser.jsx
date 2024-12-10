@@ -9,7 +9,7 @@ const ProtectedRouteUser = ({children}) => {
 
     useEffect(()=>{
         if(user === null || user.role !== 'student'){
-            navigate("/admin/companies");
+            navigate("/signup");
         }
     },[]);
 
